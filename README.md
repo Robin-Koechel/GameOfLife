@@ -3,13 +3,13 @@
 
 ## How to run:
 ````
-1. git clone https://github.com/Robin-Koechel/GameOfLife.git
-2. cd GameOfLife
-3. mkdir build
-4. cd build
-5. cmake ..
-6. make
-7. ./gameOfLife <width> <height> <tickSpeedInSeconds>
+git clone https://github.com/Robin-Koechel/GameOfLife.git
+cd GameOfLife
+mkdir build
+cd build
+cmake ..
+make
+./gameOfLife <width> <height> <tickSpeedInSeconds>
 ````
 ## Images
 
